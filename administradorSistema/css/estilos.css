@@ -1,0 +1,30 @@
+body{
+    background:#D7D5D6;
+}
+.titulo,#login,.tabla,.tablacentrada{
+    margin:0 auto;
+    text-align:center;
+}
+#login{
+    background:#FFFFFF;
+    border:2px solid #000000;
+    border-radius:2px;
+}
+#usuario,#password{
+    background:#000000;
+    border-radius:2px;
+    color:#FFFFFF;
+}
+.tabla{
+    border:2px solid #000000;
+    border-radius:2px;
+}
+.blanco{
+    background: #FFFFFF;
+}
+.uno{
+    background: #BCBCBC;
+}
+.dos{
+    background: #D0B9B9;
+}

@@ -1,0 +1,9 @@
+body{
+    background: #AFB5D5;
+}
+#acceso{
+    margin: 0 auto;
+    background: #FFFFFF;
+    border: #DDDDDD 3px solid;
+    border-radius: 3px;
+}

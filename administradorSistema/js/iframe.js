@@ -1,0 +1,21 @@
+$(document).ready(function(){
+    $(".iframe").colorbox({
+        iframe:true,
+        fastIframe:false,
+        width:"370px",
+        height:"200px",
+        transition:"fade",
+        scrolling:true
+    });
+    $(".iframes").colorbox({
+        iframe:true,
+        fastIframe:false,
+        width:"300px",
+        height:"100px",
+        transition:"fade",
+        scrolling:true
+    });
+    $("#cboxClose").click(function(){
+        location.reload();
+    });
+});
